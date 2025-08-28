@@ -5,3 +5,5 @@ practice for basic Ruby
 
 name = "Cassiopiea"
 puts name
+
+puts name.reverse.upcase
