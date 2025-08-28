@@ -2,3 +2,6 @@
 this is basic
 practice for basic Ruby
 =end
+
+name = "Cassiopiea"
+puts name
