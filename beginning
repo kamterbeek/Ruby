@@ -7,6 +7,6 @@ name = "Cassiopiea"
 puts name
 
 =begin
-puts means that the next command prints on the next line; 
+puts means that the next command prints on the next line, whereas
 
 puts name.reverse.upcase
