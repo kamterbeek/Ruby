@@ -7,5 +7,6 @@ name = "Cassiopiea"
 puts name
 
 =begin
+puts means that 
 
 puts name.reverse.upcase
