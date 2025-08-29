@@ -6,4 +6,6 @@ practice for basic Ruby
 name = "Cassiopiea"
 puts name
 
+=begin
+
 puts name.reverse.upcase
