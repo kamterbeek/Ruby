@@ -8,6 +8,6 @@ puts name
 
 =begin
 puts means that the next command prints on the next line, whereas print does not create a next line. 
-=
+=e
 
 puts name.reverse.upcase
