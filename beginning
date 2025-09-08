@@ -13,3 +13,4 @@ puts name.reverse.upcase
 
 =begin
 puts in variable that was entered 
+=end
