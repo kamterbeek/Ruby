@@ -10,3 +10,5 @@ puts name
 puts means that the next command prints on the next line, whereas print does not create a next line. 
 =end
 puts name.reverse.upcase
+
+=begin
