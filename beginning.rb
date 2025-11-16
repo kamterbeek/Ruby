@@ -16,5 +16,3 @@ puts in variable that was entered
 =end
 puts "#{first_name} #{last_name} from #{city}, #{state}!" 
  
-
-
